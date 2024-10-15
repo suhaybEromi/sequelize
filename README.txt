@@ -1,1 +1,1 @@
-Explaining express with Example
+Explaining sequelize and node-js with Example
